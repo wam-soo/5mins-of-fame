@@ -162,10 +162,12 @@ html {
     font-family: wamsoo, serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 2.5vh;
+    font-size: 2.8vh;
     position: absolute;
     top: 200px;
     left: 7vw;
+    height: 35vw; 
+    width: 30vw; 
     padding: 20px;
     color: #eadec8;
     text-align: left;
@@ -278,7 +280,7 @@ html {
     font-family: wamsoo, serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 2.7vh;
+    font-size: 3.3vh;
     position: absolute;
     top: 30vw;
     left: 10vw;
@@ -299,36 +301,38 @@ html {
     position: absolute;
     top: 200px;
     left: 64vw;
-    width: 400px;
+    width: 350px;
     height: 525px; 
     padding: 20px;
-    color: #eadec8;
+    color: #91251d;
     text-align: right;
-    background-color: #91251d;
+    background-color: #eadec8;
     border-radius: 20px;
+    border: 5px solid #91251d;
 }
 
 .text13 {
     font-family: wamsoo, serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 3vh;
+    font-size: 4vh;
     position: absolute;
     top: 200px;
-    left: 7vw;
-    width: 400px; 
+    left: 10vw;
+    width: 350px; 
     height: 525px; 
     padding: 20px;
-    color: #eadec8;
+    color: #91251d;
     text-align: left;
-    background-color: #91251d;
+    background-color: #eadec8;
     border-radius: 20px;
+    border: 5px solid #91251d;
 }
 
 .homebutton {
     position: absolute; 
-    right: 600px; 
-    bottom: 10px;
+    top: 460px; 
+    left: 590px; 
     font-family: wamsoo, serif; 
 }
 
