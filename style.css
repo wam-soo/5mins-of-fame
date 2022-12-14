@@ -77,7 +77,7 @@ html {
     font-size: 6vw;  
     display: flex;
     bottom: 36vw;
-    left: 25vw; 
+    left: 15vw; 
 }
 
 .title3 {
@@ -93,7 +93,7 @@ html {
     font-size: 5vw;  
     display: flex;
     bottom: 38vw;
-    left: 20vw; 
+    left: 30vw; 
 }
 
 .emphasis {
@@ -447,6 +447,6 @@ html {
     position: absolute; 
     width: 500px; 
     height: 609px;
-    right: 150px; 
-    top: 170px; 
+    left: 800px;  
+    bottom: 0px; 
 }
